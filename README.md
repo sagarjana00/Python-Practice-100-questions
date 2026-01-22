@@ -1,2 +1,3 @@
 # PYTHON GITHUB PRACTICE QUESTIONS 100
- Questions + Solution
+ Problem statement and Code solution all in clear jupiter notebook .ipynb format
+ best for beginners python practice 
